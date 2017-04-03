@@ -1,0 +1,16 @@
+.modal-body {
+font-family: 'Hind', sans-serif;
+color: deeppink;
+background-color :yellow;
+}
+
+
+.modal-title {
+font-family: 'Hind', sans-serif;
+color: deeppink;
+
+}
+
+#button {
+    background-color: deeppink;
+}
